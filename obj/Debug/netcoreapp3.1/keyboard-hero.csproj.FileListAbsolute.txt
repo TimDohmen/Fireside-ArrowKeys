@@ -1,0 +1,11 @@
+C:\source\codeworks\csharp\firesides\keyboard-hero\bin\Debug\netcoreapp3.1\keyboard-hero.exe
+C:\source\codeworks\csharp\firesides\keyboard-hero\bin\Debug\netcoreapp3.1\keyboard-hero.deps.json
+C:\source\codeworks\csharp\firesides\keyboard-hero\bin\Debug\netcoreapp3.1\keyboard-hero.runtimeconfig.json
+C:\source\codeworks\csharp\firesides\keyboard-hero\bin\Debug\netcoreapp3.1\keyboard-hero.runtimeconfig.dev.json
+C:\source\codeworks\csharp\firesides\keyboard-hero\bin\Debug\netcoreapp3.1\keyboard-hero.dll
+C:\source\codeworks\csharp\firesides\keyboard-hero\bin\Debug\netcoreapp3.1\keyboard-hero.pdb
+C:\source\codeworks\csharp\firesides\keyboard-hero\obj\Debug\netcoreapp3.1\keyboard-hero.csprojAssemblyReference.cache
+C:\source\codeworks\csharp\firesides\keyboard-hero\obj\Debug\netcoreapp3.1\keyboard-hero.AssemblyInfoInputs.cache
+C:\source\codeworks\csharp\firesides\keyboard-hero\obj\Debug\netcoreapp3.1\keyboard-hero.AssemblyInfo.cs
+C:\source\codeworks\csharp\firesides\keyboard-hero\obj\Debug\netcoreapp3.1\keyboard-hero.dll
+C:\source\codeworks\csharp\firesides\keyboard-hero\obj\Debug\netcoreapp3.1\keyboard-hero.pdb
